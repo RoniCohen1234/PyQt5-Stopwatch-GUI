@@ -1,0 +1,1 @@
+"This was my first hands-on project with Python, where I explored building a Graphical User Interface (GUI). It helped me understand concepts like Object-Oriented Programming (OOP), event handling, and using timers—skills I plan to apply in developing custom lab-tool interfaces."
